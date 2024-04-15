@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\GeometricShapes\bin\Debug\net8.0\GeometricShapes.exe
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\GeometricShapes\bin\Debug\net8.0\GeometricShapes.deps.json
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\GeometricShapes\bin\Debug\net8.0\GeometricShapes.runtimeconfig.json
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\GeometricShapes\bin\Debug\net8.0\GeometricShapes.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\GeometricShapes\bin\Debug\net8.0\GeometricShapes.pdb
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\GeometricShapes\obj\Debug\net8.0\GeometricShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\GeometricShapes\obj\Debug\net8.0\GeometricShapes.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\GeometricShapes\obj\Debug\net8.0\GeometricShapes.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\GeometricShapes\obj\Debug\net8.0\GeometricShapes.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\GeometricShapes\obj\Debug\net8.0\GeometricShapes.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\GeometricShapes\obj\Debug\net8.0\refint\GeometricShapes.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\GeometricShapes\obj\Debug\net8.0\GeometricShapes.pdb
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\GeometricShapes\obj\Debug\net8.0\GeometricShapes.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\GeometricShapes\obj\Debug\net8.0\ref\GeometricShapes.dll

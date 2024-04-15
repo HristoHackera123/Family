@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\Family\bin\Debug\net8.0\Family.exe
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\Family\bin\Debug\net8.0\Family.deps.json
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\Family\bin\Debug\net8.0\Family.runtimeconfig.json
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\Family\bin\Debug\net8.0\Family.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\Family\bin\Debug\net8.0\Family.pdb
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\Family\obj\Debug\net8.0\Family.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\Family\obj\Debug\net8.0\Family.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\Family\obj\Debug\net8.0\Family.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\Family\obj\Debug\net8.0\Family.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\Family\obj\Debug\net8.0\Family.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\Family\obj\Debug\net8.0\refint\Family.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\Family\obj\Debug\net8.0\Family.pdb
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\Family\obj\Debug\net8.0\Family.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\Family\obj\Debug\net8.0\ref\Family.dll
