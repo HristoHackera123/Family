@@ -27,3 +27,4 @@ C:\Users\encho\OneDrive\Desktop\Family\Family\obj\Debug\net8.0\refint\Family.dll
 C:\Users\encho\OneDrive\Desktop\Family\Family\obj\Debug\net8.0\Family.pdb
 C:\Users\encho\OneDrive\Desktop\Family\Family\obj\Debug\net8.0\Family.genruntimeconfig.cache
 C:\Users\encho\OneDrive\Desktop\Family\Family\obj\Debug\net8.0\ref\Family.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\Family\obj\Debug\net8.0\Family.sourcelink.json

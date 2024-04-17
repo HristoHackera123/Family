@@ -55,23 +55,53 @@ namespace Family
                 if (Members[i].Age < minAge)
                 {
                     minIndex = i;
+                    minAge = Members[i].Age;
                 }
-                else if (Members[i].Age > maxAge) 
+                if (Members[i].Age > maxAge)
                 {
-                    maxIndex = i; 
+                    maxIndex = i;
+                    maxAge = Members[i].Age;
                 }
             }
-            Console.WriteLine($"{Members[maxIndex].Name} is the youngest, being {Members[maxIndex].Age}");
-            Console.WriteLine($"{Members[minIndex].Name} is the oldest, being {Members[minIndex].Age}");
+            Console.WriteLine($"{Members[minIndex].Name} is the youngest, being {Members[minIndex].Age}");
+            Console.WriteLine($"{Members[maxIndex].Name} is the oldest, being {Members[maxIndex].Age}");
         }
         public int FindSumOfAges()
         {
             int sum = 0;
-            for (int i = 0; i < this.Members.Count ; i++)
+            for (int i = 0; i < this.Members.Count; i++)
             {
                 sum += Members[i].Age;
             }
             return sum;
+        }
+        public void SortMembers()
+        {
+            int count = this.Members.Count;
+            for (int i = 0; i < count; i++)
+            {
+                for (int j = 0; j < count - 1; j++)
+                {
+                    if (this.Members[j].Age > this.Members[j + 1].Age)
+                    {
+                        Person swap = this.Members[j];
+                        this.Members[j] = this.Members[j + 1];
+                        this.Members[j + 1] = swap;
+                    }
+                    else
+                    {
+                        if (this.Members[j].Age == this.Members[j + 1].Age)
+                        {
+                            if (string.Compare(this.Members[j].Name, this.Members[j + 1].Name, true) > 0)
+                            {
+                                Person swap = this.Members[j];
+                                this.Members[j] = this.Members[j + 1];
+                                this.Members[j + 1] = swap;
+                            }
+                        }
+                    }
+                }
+            }
         }
     }
 }

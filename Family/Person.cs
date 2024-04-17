@@ -20,15 +20,12 @@ namespace Family
             get { return age; }
             set
             {
-                if (value < 0 || value > 117)
+                while (value < 0 || value > 117)
                 {
-                    Console.WriteLine("Invalid age");
-                    this.age = 0;
+                    Console.WriteLine("Invalid age, please try again");
+                    value = int.Parse(Console.ReadLine());
                 }
-                else
-                {
-                    age = value;
-                }
+                age = value;
 
             }
         }

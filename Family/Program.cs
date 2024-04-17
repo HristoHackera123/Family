@@ -50,31 +50,7 @@
                 current.Age = int.Parse(Console.ReadLine());
                 family.Members.Add(current);
             }
-           
-            for (int i = 0; i < count; i++)
-            {
-                for (int j = 0; j < count-1; j++)
-                {
-                    if (family.Members[j].Age > family.Members[j + 1].Age)
-                    {
-                        Person swap = family.Members[j];
-                        family.Members[j] = family.Members[j + 1];
-                        family.Members[j + 1] = swap;
-                    }
-                    else
-                    {
-                        if (family.Members[j].Age == family.Members[j + 1].Age)
-                        {
-                            if (string.Compare(family.Members[j].Name, family.Members[j + 1].Name, true) > 0)
-                            {
-                                Person swap = family.Members[j];
-                                family.Members[j] = family.Members[j + 1];
-                                family.Members[j + 1] = swap;
-                            }
-                        }
-                    }
-                }
-            }
+            family.SortMembers();
             family.PrintAllMembers();
             family.FindOldestAndYoungers();
             Console.WriteLine($"The sum of the ages of all family members = {family.FindSumOfAges()}");
