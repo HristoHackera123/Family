@@ -97,6 +97,7 @@ namespace Family
                                 Person swap = this.Members[j];
                                 this.Members[j] = this.Members[j + 1];
                                 this.Members[j + 1] = swap;
+
                             }
                         }
                     }
