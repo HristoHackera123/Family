@@ -12,3 +12,18 @@ C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\Family\obj\D
 C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\Family\obj\Debug\net8.0\Family.pdb
 C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\Family\obj\Debug\net8.0\Family.genruntimeconfig.cache
 C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Classes9a\Family\obj\Debug\net8.0\ref\Family.dll
+C:\Users\encho\OneDrive\Desktop\Family\Family\bin\Debug\net8.0\Family.exe
+C:\Users\encho\OneDrive\Desktop\Family\Family\bin\Debug\net8.0\Family.deps.json
+C:\Users\encho\OneDrive\Desktop\Family\Family\bin\Debug\net8.0\Family.runtimeconfig.json
+C:\Users\encho\OneDrive\Desktop\Family\Family\bin\Debug\net8.0\Family.dll
+C:\Users\encho\OneDrive\Desktop\Family\Family\bin\Debug\net8.0\Family.pdb
+C:\Users\encho\OneDrive\Desktop\Family\Family\obj\Debug\net8.0\Family.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\OneDrive\Desktop\Family\Family\obj\Debug\net8.0\Family.AssemblyInfoInputs.cache
+C:\Users\encho\OneDrive\Desktop\Family\Family\obj\Debug\net8.0\Family.AssemblyInfo.cs
+C:\Users\encho\OneDrive\Desktop\Family\Family\obj\Debug\net8.0\Family.csproj.CoreCompileInputs.cache
+C:\Users\encho\OneDrive\Desktop\Family\Family\obj\Debug\net8.0\Family.sourcelink.json
+C:\Users\encho\OneDrive\Desktop\Family\Family\obj\Debug\net8.0\Family.dll
+C:\Users\encho\OneDrive\Desktop\Family\Family\obj\Debug\net8.0\refint\Family.dll
+C:\Users\encho\OneDrive\Desktop\Family\Family\obj\Debug\net8.0\Family.pdb
+C:\Users\encho\OneDrive\Desktop\Family\Family\obj\Debug\net8.0\Family.genruntimeconfig.cache
+C:\Users\encho\OneDrive\Desktop\Family\Family\obj\Debug\net8.0\ref\Family.dll

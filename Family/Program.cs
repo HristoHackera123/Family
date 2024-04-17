@@ -61,9 +61,23 @@
                         family.Members[j] = family.Members[j + 1];
                         family.Members[j + 1] = swap;
                     }
+                    else
+                    {
+                        if (family.Members[j].Age == family.Members[j + 1].Age)
+                        {
+                            if (string.Compare(family.Members[j].Name, family.Members[j + 1].Name, true) > 0)
+                            {
+                                Person swap = family.Members[j];
+                                family.Members[j] = family.Members[j + 1];
+                                family.Members[j + 1] = swap;
+                            }
+                        }
+                    }
                 }
             }
             family.PrintAllMembers();
+            family.FindOldestAndYoungers();
+            Console.WriteLine($"The sum of the ages of all family members = {family.FindSumOfAges()}");
         }
     }
 }

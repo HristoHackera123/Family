@@ -43,5 +43,35 @@ namespace Family
                 item.IntroduceYourself();
             }
         }
+
+        public void FindOldestAndYoungers()
+        {
+            int minAge = int.MaxValue;
+            int minIndex = 0;
+            int maxAge = int.MinValue;
+            int maxIndex = 0;
+            for (int i = 0; i < this.Members.Count; i++)
+            {
+                if (Members[i].Age < minAge)
+                {
+                    minIndex = i;
+                }
+                else if (Members[i].Age > maxAge) 
+                {
+                    maxIndex = i; 
+                }
+            }
+            Console.WriteLine($"{Members[maxIndex].Name} is the youngest, being {Members[maxIndex].Age}");
+            Console.WriteLine($"{Members[minIndex].Name} is the oldest, being {Members[minIndex].Age}");
+        }
+        public int FindSumOfAges()
+        {
+            int sum = 0;
+            for (int i = 0; i < this.Members.Count ; i++)
+            {
+                sum += Members[i].Age;
+            }
+            return sum;
+        }
     }
 }
